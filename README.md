@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @sasho4ek07
+- I am fond of DevOps and automation of routine processes.
