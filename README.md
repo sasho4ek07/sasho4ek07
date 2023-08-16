@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @sasho4ek07
+- 👋 Hi, I’m Alexander As
 - I am fond of DevOps and automation of routine processes.
